@@ -12,10 +12,10 @@ Software Engineering Lead · Full-Stack Software Engineer · Manila, Philippines
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-albeltran.com-4f8eff?style=for-the-badge)](https://albeltran.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-al--beltran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-beltran/)
-[![GitHub](https://img.shields.io/badge/GitHub-codemoon2019-181717?style=for-the-badge&logo=github)](https://github.com/codemoon2019)
+[![GitHub](https://img.shields.io/badge/GitHub-altbeltran-181717?style=for-the-badge&logo=github)](https://github.com/altbeltran)
 [![Email](https://img.shields.io/badge/Email-al.andrew.p.beltran%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al.andrew.p.beltran@gmail.com)
 
-[![Profile views](https://komarev.com/ghpvc/?username=codemoon2019&label=Profile%20views&color=4f8eff&style=flat)](https://github.com/codemoon2019)
+[![Profile views](https://komarev.com/ghpvc/?username=altbeltran&label=Profile%20views&color=4f8eff&style=flat)](https://github.com/altbeltran)
 [![Website](https://img.shields.io/badge/site-albeltran.com-success?style=flat)](https://albeltran.com/)
 
 </div>
@@ -33,7 +33,7 @@ I design, build, and ship digital products from idea to production. Day to day t
 - **Lab:** [https://albeltran.com/lab/](https://albeltran.com/lab/)
 - **Journal:** [https://albeltran.com/blog/](https://albeltran.com/blog/)
 - **LinkedIn:** [linkedin.com/in/al-beltran](https://www.linkedin.com/in/al-beltran/)
-- **GitHub:** [github.com/codemoon2019](https://github.com/codemoon2019)
+- **GitHub:** [github.com/altbeltran](https://github.com/altbeltran)
 - **Codewars:** [pawpu](https://www.codewars.com/users/pawpu)
 
 ### Developer platform and tools
@@ -98,4 +98,4 @@ More case studies: [albeltran.com/projects](https://albeltran.com/projects/) · 
 
 ### Name & identity (for search)
 
-**Al Andrew Paul Beltran**, **Al Beltran**, and **Al Andrew Paul Teodosio Beltran** are the same person. Online brand: **Code by Pawpu**. Official website: **https://albeltran.com**. GitHub: **[@codemoon2019](https://github.com/codemoon2019)**.
+**Al Andrew Paul Beltran**, **Al Beltran**, and **Al Andrew Paul Teodosio Beltran** are the same person. Online brand: **Code by Pawpu**. Official website: **https://albeltran.com**. GitHub: **[@altbeltran](https://github.com/altbeltran)** (formerly [@codemoon2019](https://github.com/codemoon2019)).
