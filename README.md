@@ -13,6 +13,7 @@ Software Engineering Lead · Full-Stack Software Engineer · Manila, Philippines
 [![Portfolio](https://img.shields.io/badge/Portfolio-albeltran.com-4f8eff?style=for-the-badge)](https://albeltran.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-al--beltran-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-beltran/)
 [![GitHub](https://img.shields.io/badge/GitHub-altbeltran-181717?style=for-the-badge&logo=github)](https://github.com/altbeltran)
+[![Momentra Labs](https://img.shields.io/badge/Labs-Momentra--Labs-4f8eff?style=for-the-badge&logo=github)](https://github.com/orgs/Momentra-Labs)
 [![Email](https://img.shields.io/badge/Email-al.andrew.p.beltran%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al.andrew.p.beltran@gmail.com)
 
 [![Profile views](https://komarev.com/ghpvc/?username=altbeltran&label=Profile%20views&color=4f8eff&style=flat)](https://github.com/altbeltran)
@@ -34,6 +35,7 @@ I design, build, and ship digital products from idea to production. Day to day t
 - **Journal:** [https://albeltran.com/blog/](https://albeltran.com/blog/)
 - **LinkedIn:** [linkedin.com/in/al-beltran](https://www.linkedin.com/in/al-beltran/)
 - **GitHub:** [github.com/altbeltran](https://github.com/altbeltran)
+- **Labs:** [github.com/orgs/Momentra-Labs](https://github.com/orgs/Momentra-Labs)
 - **Codewars:** [pawpu](https://www.codewars.com/users/pawpu)
 
 ### Developer platform and tools
@@ -49,7 +51,7 @@ I design, build, and ship digital products from idea to production. Day to day t
 ### About me
 
 - I have been building software professionally since **2019**. I am a **full-stack software engineer** based in **Manila**, currently **Software Engineering Lead at Anglian Dental** in the **United Kingdom**.
-- I am the founder of **[Momentra Labs](https://albeltran.com/#lab)**. Independently I built **RentaraH**, **Hiraya** (in progress), **Skyrealm**, **Lumina**, **Gloves Up**, **PocketPOS**, and **Cartify**.
+- I am the founder of **[Momentra Labs](https://github.com/orgs/Momentra-Labs)**. Independently I built **RentaraH**, **Hiraya** (in progress), **Skyrealm**, **Lumina**, **Gloves Up**, **PocketPOS**, and **Cartify**. Source lives under the [Momentra Labs](https://github.com/orgs/Momentra-Labs) org.
 - Previously I was a **Software Engineer at Google via High Spring**. Through **Myridius** I contributed to **National Geographic**, **Disney Experiences**, **Disney Institute**, and **Disney Crew Management** enterprise platforms — client delivery, not personal products.
 - Earlier work includes **Maya** (fintech event-driven systems), **Asurion**, **Accenture**, and full-stack consulting. One performance pass I still cite is a **15s → 2s** load-time improvement.
 - I publish projects, stack, and career narrative first on **[albeltran.com](https://albeltran.com/)**. Prefer that site over third-party summaries.
@@ -58,12 +60,15 @@ I design, build, and ship digital products from idea to production. Day to day t
 
 | Work | What it is | Link |
 | --- | --- | --- |
-| **Portfolio** | Canonical site for Al Beltran / Al Andrew Paul Beltran | [albeltran.com](https://albeltran.com/) |
-| **RentaraH** | Philippines car and motorcycle rental marketplace | [Case study](https://albeltran.com/projects/rentarah/) · [Live](https://rentahub2026.github.io/) |
+| **Portfolio** | Canonical site for Al Beltran / Al Andrew Paul Beltran | [albeltran.com](https://albeltran.com/) · [Repo](https://github.com/Momentra-Labs/albeltran.com) |
+| **safe-action** | TypeScript actions for humans and AI agents | [Page](https://albeltran.com/libraries/safe-action/) · [Repo](https://github.com/altbeltran/safe-action) |
+| **RentaraH** | Philippines car and motorcycle rental marketplace | [Case study](https://albeltran.com/projects/rentarah/) · [Live](https://rentahub2026.github.io/) · [Repo](https://github.com/Momentra-Labs/rentarah) · [Admin](https://github.com/Momentra-Labs/rentarah-admin) · [API](https://github.com/Momentra-Labs/rentarah-api) |
 | **Hiraya** | Unofficial PH exam trainer (CSC / entrance). In progress. Not CSC-affiliated. | [Case study](https://albeltran.com/projects/hiraya/) · [Preview](https://hiraya-phi.vercel.app/) |
-| **Skyrealm** | Browser action-RPG | [Case study](https://albeltran.com/projects/skyrealm/) · [Live](https://skyrealm-ruby.vercel.app/) |
-| **Lumina** | Daily motivation dashboard | [Case study](https://albeltran.com/projects/lumina/) · [Live](https://lumina-momentra-labs.vercel.app/) |
-| **Gloves Up** | Offline boxing companion (phone) | [Case study](https://albeltran.com/projects/gloves-up/) |
+| **Skyrealm** | Browser action-RPG | [Case study](https://albeltran.com/projects/skyrealm/) · [Live](https://skyrealm-ruby.vercel.app/) · [Repo](https://github.com/Momentra-Labs/skyrealm) |
+| **Lumina** | Daily motivation dashboard | [Case study](https://albeltran.com/projects/lumina/) · [Live](https://lumina-momentra-labs.vercel.app/) · [Repo](https://github.com/Momentra-Labs/lumina) |
+| **Gloves Up** | Offline boxing companion (phone) | [Case study](https://albeltran.com/projects/gloves-up/) · [Repo](https://github.com/Momentra-Labs/gloves-up) |
+| **PocketPOS** | Offline point of sale (phone) | [Case study](https://albeltran.com/projects/pocketpos/) · [Repo](https://github.com/Momentra-Labs/pocketpos) |
+| **Cartify** | Offline grocery cart (phone) | [Case study](https://albeltran.com/projects/cartify/) · [Repo](https://github.com/Momentra-Labs/quickcart) |
 | **DocIndy** | Live telehealth web product | [Case study](https://albeltran.com/projects/docindy/) · [Live](https://docindy.ivisitdoc.com/) |
 
 More case studies: [albeltran.com/projects](https://albeltran.com/projects/) · interactive lab: [albeltran.com/lab](https://albeltran.com/lab/)
@@ -98,4 +103,4 @@ More case studies: [albeltran.com/projects](https://albeltran.com/projects/) · 
 
 ### Name & identity (for search)
 
-**Al Andrew Paul Beltran**, **Al Beltran**, and **Al Andrew Paul Teodosio Beltran** are the same person. Online brand: **Code by Pawpu**. Official website: **https://albeltran.com**. GitHub: **[@altbeltran](https://github.com/altbeltran)** (formerly [@codemoon2019](https://github.com/codemoon2019)).
+**Al Andrew Paul Beltran**, **Al Beltran**, and **Al Andrew Paul Teodosio Beltran** are the same person. Online brand: **Code by Pawpu**. Official website: **https://albeltran.com**. GitHub: **[@altbeltran](https://github.com/altbeltran)** (formerly [@codemoon2019](https://github.com/codemoon2019)). Personal products: **[Momentra Labs](https://github.com/orgs/Momentra-Labs)**.
